@@ -14,23 +14,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/Amit-akm-22/MITS-One-Desk?style=social)](https://github.com/Amit-akm-22/MITS-One-Desk/star<div align="center">
 
-# 🎓 MITS One-Desk: Campus Operating System
 
-![One-Desk Logo](https://img.shields.io/badge/MITS-One--Desk-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
-
-**The Official Centralized Administrative Portal for Madhav Institute of Technology & Science (MITS)**
-
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-18.0.0+-43853D?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-7.0-4EA94B?style=for-the-badge&logo=mongodb)](https://mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis)](https://redis.io/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-
-[![GitHub Stars](https://img.shields.io/github/stars/Amit-akm-22/MITS-One-Desk?style=social)](https://github.com/Amit-akm-22/MITS-One-Desk/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Amit-akm-22/MITS-One-Desk?style=social)](https://github.com/Amit-akm-22/MITS-One-Desk/network/members)
-[![GitHub License](https://img.shields.io/github/license/Amit-akm-22/MITS-One-Desk)](https://github.com/Amit-akm-22/MITS-One-Desk/blob/main/LICENSE)
-
----
 
 ## 🚀 Live Demo
 
