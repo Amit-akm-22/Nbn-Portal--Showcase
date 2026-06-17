@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 MITS One-Desk: Campus Operating System
+# 🎓 MITS NbN Portal: Campus Operating System
 
 ![One-Desk Logo](https://img.shields.io/badge/MITS-One--Desk-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
