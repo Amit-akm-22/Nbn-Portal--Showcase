@@ -12,7 +12,6 @@
 [![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis)](https://redis.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Amit-akm-22/MITS-One-Desk?style=social)](https://github.com/Amit-akm-22/MITS-One-Desk/star<div align="center">
 
 
 
