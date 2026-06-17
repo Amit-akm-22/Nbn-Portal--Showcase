@@ -356,7 +356,4 @@ VITE_GOOGLE_CLIENT_ID=your_google_client_id
 
 </div>
 gazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Amit-akm-22/MITS-One-Desk?style=social)](https://github.com/Amit-akm-22/MITS-One-Desk/network/members)
-[![GitHub License](https://img.shields.io/github/license/Amit-akm-22/MITS-One-Desk)](https://github.com/Amit-akm-22/MITS-One-Desk/blob/main/LICENSE)
 
----
